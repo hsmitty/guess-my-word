@@ -29,7 +29,6 @@ const possibleWords = {
 };
 /* eslint-enable */
 
-
 const WIN = 'win';
 const BEFORE = 'before';
 const AFTER = 'after';
